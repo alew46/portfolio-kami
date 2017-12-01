@@ -5,16 +5,16 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title: Alex Lewis # Your name will go here
+  description: "Campaign Tech Consultant" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
+     <h1>Campaign Tech Consultant</h1>
      <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Copyright 2017 Alex Lewis
 
   # Icons
   rss: false
@@ -24,7 +24,7 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "alew46"
   google_plus:
   instagram:
   linkedin:  # Full URL
